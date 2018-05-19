@@ -16,6 +16,10 @@ Hi, I'm Bob!
 
 Еще раз БОб
 
+<<<<<<< HEAD
 Bob
 
 Bob2
+=======
+Bob
+>>>>>>> c3ce239122e2fecacccd8ecc0d4f52e0bf9a5c27
