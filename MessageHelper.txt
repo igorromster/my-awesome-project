@@ -1,11 +1,6 @@
 package tutorial;
 
 public class MessageHelper {
-	
-	public String getConflictMessage() {
-		return "Bob";
-	}
-	
 	public String getMessage() {
 		return "message";
 	}
