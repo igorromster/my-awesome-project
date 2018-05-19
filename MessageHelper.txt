@@ -3,5 +3,5 @@ package tutorial;
 public class MessageHelper {
 	public String getMessage() {
 		return "message";
-	}
+	}//Message
 }
