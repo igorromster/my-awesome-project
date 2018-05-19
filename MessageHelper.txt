@@ -4,4 +4,8 @@ public class MessageHelper {
 	public String getMessage() {
 		return "message";
 	}
+	
+	public String getConflictMessage() {
+		return "Alice";
+	}
 }
