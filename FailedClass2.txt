@@ -2,8 +2,8 @@ package fail;
 
 public class FailedClass {
 	public void fail() {
-		String piram = "Param";
-		System.out.println(piram);
+		String param = "Param";
+		System.out.println(param);
 		
 		//Some hard logic goes there
 		//...
