@@ -10,6 +10,9 @@ public class FailedClass {
 		//...
 		//...
 		
+		String param = "My parameter";
+		System.out.println(param);
+		
 		for (int i = 0; i < 10; i++ ) {
 			System.out.println(i);
 		}
