@@ -18,5 +18,7 @@ public class FailedClass {
 		}
 		
 		//some more comments
+		
+		//some more comments 2 
 	}
 }
