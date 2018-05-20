@@ -27,3 +27,5 @@ Vivamus hendrerit vel risus sit amet feugiat. Class aptent taciti sociosqu ad li
 Удаленное изменение
 
 Alice
+
+Изменение в мастере
