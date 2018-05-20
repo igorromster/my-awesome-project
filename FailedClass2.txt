@@ -1,0 +1,17 @@
+package fail;
+
+public class FailedClass {
+	public void fail() {
+		String piram = "Param";
+		System.out.println(piram);
+		
+		//Some hard logic goes there
+		//...
+		//...
+		//...
+		
+		for (int i = 0; i < 10; i++ ) {
+			System.out.println(i);
+		}
+	}
+}
