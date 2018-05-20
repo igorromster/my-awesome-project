@@ -1,0 +1,8 @@
+package fail;
+
+public class FailedClass {
+	public void fail() {
+		String piram = "Param";
+		System.out.println(piram);
+	}
+}
