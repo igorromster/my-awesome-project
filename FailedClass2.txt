@@ -5,6 +5,8 @@ public class FailedClass {
 		String param = "Param";
 		System.out.println(param);
 		
+		//some more comments 4
+		
 		//Some hard logic goes there
 		//...
 		//...
