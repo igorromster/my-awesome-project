@@ -22,5 +22,7 @@ public class FailedClass {
 		//some more comments
 		
 		//some more comments 2 
+		
+		//some more comments 3
 	}
 }
